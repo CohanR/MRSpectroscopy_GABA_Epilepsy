@@ -58,8 +58,9 @@ My code aims to analyse the levels of GABA and Glutamate in three groups: Epilep
 
 ### Output:
 
-![output1](images/descriptive_boxplots.png)
-![output2](images/correlations.png)
+![output5](images/descriptive_boxplots.png)
+
+![output6](images/correlations.png)
 
 ### interpretation
 
