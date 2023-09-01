@@ -12,7 +12,7 @@ Magnetic Resonance (MR) Spectroscopy is a non-invasive diagnostic technique that
 **Glutamate:** This is the primary excitatory neurotransmitter, responsible for sending signals between nerve cells, and under normal conditions, it plays an essential role in learning and memory. However, excessive glutamate release or inadequate uptake can lead to a condition called excitotoxicity, damaging nerve cells.
 
 ### 3. Epileptic Drugs:
-Epileptic drugs, often referred to as antiepileptic drugs (AEDs), are medications prescribed to control seizures. These drugs primarily act by altering the activity of neurotransmitters in the brain, either by enhancing the effects of inhibitory neurotransmitters like GABA or by reducing the effects of excitatory neurotransmitters like glutamate. Adjusting the balance between excitatory and inhibitory neurotransmitters can help control or prevent epileptic seizures.
+Epileptic drugs (AEDs), are medications prescribed to control seizures (e.g., Topiramate). These drugs primarily act by altering the activity of neurotransmitters in the brain, either by enhancing the effects of inhibitory neurotransmitters like GABA or by reducing the effects of excitatory neurotransmitters like glutamate. Adjusting the balance between excitatory and inhibitory neurotransmitters can help control or prevent epileptic seizures.
 
 
 ## Data Description:
